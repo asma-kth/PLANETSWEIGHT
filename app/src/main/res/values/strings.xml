@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PLANETSWEIGHT</string>
+    <string name="jupiter">jupiter</string>
+    <string name="venus">venus</string>
+    <string name="mars">mars</string>
+    <string name="show_weight">show weight</string>
+    <string name="hint_weight">enter your weight plz</string>
+    <string name="weight_title">Your Weight in other PLANEtS</string>
+</resources>
